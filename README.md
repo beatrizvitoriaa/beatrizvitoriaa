@@ -25,5 +25,6 @@
   <a href="https://www.instagram.com/beatriz_vitoriaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/beatrizvr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </div>
-    
+
+![Snake animation](https://github.com/beatrizvitoriaa/beatrizvitoriaa/blob/output/github-contribution-grid-snake-dark.svg)
 
