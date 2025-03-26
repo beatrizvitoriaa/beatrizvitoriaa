@@ -16,7 +16,7 @@
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="right" height="100" widht="200" alta="Bea" src="https://giphy.com/gifs/catwoman-catgirl-cat-girl-O5lDNfS3kdjSdSrxQc">
+  <img align="right" height="100" widht="200" alta="Bea" src="[https://giphy.com/gifs/catwoman-catgirl-cat-girl-O5lDNfS3kdjSdSrxQc](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTgweXAzbXZtNzVlY214MHNmdXFkY3JsNjNuZTRhbzRtOGRrYWhxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O5lDNfS3kdjSdSrxQc/giphy.gif)">
 </div>
 
 ##
