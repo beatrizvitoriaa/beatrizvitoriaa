@@ -16,7 +16,12 @@
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="right" height="100" widht="200" alta="Bea" src="https://br.pinterest.com/pin/718605684274426176/">
+  <img align="right" height="150" widht="250" alta="Bea" src="https://github.com/user-attachments/assets/70dfeb6f-f589-43dc-8c4b-ace73b3e795e">
 </div>
 
+<div>
+  <a href="https://www.instagram.com/beatriz_vitoriaa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/beatrizvr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ 
+</div>
 ##
