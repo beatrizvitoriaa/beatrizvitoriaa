@@ -16,7 +16,7 @@
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" alt="Bea" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="right" height="100" widht="200" alta="Bea" src="https://br.pinterest.com/acruz0143/anime-gifs/">
+  <img align="right" height="100" widht="200" alta="Bea" src="https://br.pinterest.com/pin/718605684274426176/">
 </div>
 
 ##
