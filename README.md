@@ -9,9 +9,6 @@
 </div>
 
 ##
-
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/70dfeb6f-f589-43dc-8c4b-ace73b3e795e">
-
 <h3 align="left">Entre em contato comigo!</h3>
   <a href="https://www.linkedin.com/in/beatrizvr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/beatriz_vitoriaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
