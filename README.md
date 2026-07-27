@@ -1,14 +1,5 @@
 ## 👩🏻‍💻 Oiii eu sou a Beatriz Vitoria! **` Desenvolvedora Front-End`**
 
-
-<div>
-  <h3 align="left"> 📊  Estatísticas do GitHub</h3>
-  <a href="https://github.com/beatrizvitoriaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizvitoriaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizvitoriaa&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-##
 <h3 align="left">Entre em contato comigo!</h3>
   <a href="https://www.linkedin.com/in/beatrizvr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/beatriz_vitoriaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
